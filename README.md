@@ -73,6 +73,12 @@ How does one [load data into a property-graph database](https://stackoverflow.co
 - If you have an especially large graph, then consider BulkLoaderVertexProgram and Hadoop/Spark
 - Consider the bulk loading tools available to the graph database you have chosen.
 
+
+## Visualization
+
+- The image was created using the [python-igraph](https://igraph.org/python/) visualization library
+
+
 ## Additional Resources
 
 - Several manuals and notes of internal meetings are saved in the [CW shared drive](https://drive.google.com/drive/folders/1hcbdBPz9fsMzf2Av_76KNN46BVZoDUFj?usp=sharing) on Google Docs.
